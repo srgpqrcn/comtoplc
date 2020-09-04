@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d2639b46abdac6e7c026f485c871f2b9",
+    "revision": "ae4661eb20eacea5ba96c820fbe445b4",
     "url": "/comtoplc/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/comtoplc/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "3739eaa444facb3509ff",
+    "revision": "9f3a52471c6046b910bc",
     "url": "/comtoplc/static/css/main.7e293357.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/comtoplc/static/js/2.6db0ea6b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3739eaa444facb3509ff",
-    "url": "/comtoplc/static/js/main.d8fc5ce1.chunk.js"
+    "revision": "9f3a52471c6046b910bc",
+    "url": "/comtoplc/static/js/main.81166f1a.chunk.js"
   },
   {
     "revision": "1d11943f741162acc967",
