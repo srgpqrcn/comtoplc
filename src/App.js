@@ -37,7 +37,7 @@ class App extends Component {
     console.log(this.state)
         return(
             <Fragment>
-                <div className='tc bg-blue'>
+                <div className='tc bg-red'>
                     <h1>INDUSTRIAL COMMUNICATION APP</h1>
                     {/* <InputData comDataIni={this.state} comDataChange={this.onInputChange}/> */}
                     <InputData comDataIni={dataIni} comDataChange={this.onInputChange}/>
