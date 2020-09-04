@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/comtoplc/static/css/main.2a53ecd5.chunk.css",
-    "main.js": "/comtoplc/static/js/main.1d90e55c.chunk.js",
-    "main.js.map": "/comtoplc/static/js/main.1d90e55c.chunk.js.map",
+    "main.css": "/comtoplc/static/css/main.dc105a5f.chunk.css",
+    "main.js": "/comtoplc/static/js/main.d8fc5ce1.chunk.js",
+    "main.js.map": "/comtoplc/static/js/main.d8fc5ce1.chunk.js.map",
     "runtime-main.js": "/comtoplc/static/js/runtime-main.dcb8bdd8.js",
     "runtime-main.js.map": "/comtoplc/static/js/runtime-main.dcb8bdd8.js.map",
     "static/css/2.3c03f26f.chunk.css": "/comtoplc/static/css/2.3c03f26f.chunk.css",
     "static/js/2.6db0ea6b.chunk.js": "/comtoplc/static/js/2.6db0ea6b.chunk.js",
     "static/js/2.6db0ea6b.chunk.js.map": "/comtoplc/static/js/2.6db0ea6b.chunk.js.map",
     "index.html": "/comtoplc/index.html",
-    "precache-manifest.a73a1d0eeb4d7255feee907706fad95f.js": "/comtoplc/precache-manifest.a73a1d0eeb4d7255feee907706fad95f.js",
+    "precache-manifest.9fd5b30e2050a1f648a44f0cce162582.js": "/comtoplc/precache-manifest.9fd5b30e2050a1f648a44f0cce162582.js",
     "service-worker.js": "/comtoplc/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/comtoplc/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.2a53ecd5.chunk.css.map": "/comtoplc/static/css/main.2a53ecd5.chunk.css.map",
+    "static/css/main.dc105a5f.chunk.css.map": "/comtoplc/static/css/main.dc105a5f.chunk.css.map",
     "static/js/2.6db0ea6b.chunk.js.LICENSE.txt": "/comtoplc/static/js/2.6db0ea6b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.dcb8bdd8.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.6db0ea6b.chunk.js",
-    "static/css/main.2a53ecd5.chunk.css",
-    "static/js/main.1d90e55c.chunk.js"
+    "static/css/main.dc105a5f.chunk.css",
+    "static/js/main.d8fc5ce1.chunk.js"
   ]
 }
