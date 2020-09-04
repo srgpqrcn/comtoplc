@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/srgpqrcn.github.io/comtoplc/static/css/main.7e293357.chunk.css",
-    "main.js": "/srgpqrcn.github.io/comtoplc/static/js/main.5b85d139.chunk.js",
-    "main.js.map": "/srgpqrcn.github.io/comtoplc/static/js/main.5b85d139.chunk.js.map",
-    "runtime-main.js": "/srgpqrcn.github.io/comtoplc/static/js/runtime-main.263511b0.js",
-    "runtime-main.js.map": "/srgpqrcn.github.io/comtoplc/static/js/runtime-main.263511b0.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/srgpqrcn.github.io/comtoplc/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.6db0ea6b.chunk.js": "/srgpqrcn.github.io/comtoplc/static/js/2.6db0ea6b.chunk.js",
-    "static/js/2.6db0ea6b.chunk.js.map": "/srgpqrcn.github.io/comtoplc/static/js/2.6db0ea6b.chunk.js.map",
-    "index.html": "/srgpqrcn.github.io/comtoplc/index.html",
-    "precache-manifest.06f49280aa8ad31e27622c9f5d013ce1.js": "/srgpqrcn.github.io/comtoplc/precache-manifest.06f49280aa8ad31e27622c9f5d013ce1.js",
-    "service-worker.js": "/srgpqrcn.github.io/comtoplc/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/srgpqrcn.github.io/comtoplc/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.7e293357.chunk.css.map": "/srgpqrcn.github.io/comtoplc/static/css/main.7e293357.chunk.css.map",
-    "static/js/2.6db0ea6b.chunk.js.LICENSE.txt": "/srgpqrcn.github.io/comtoplc/static/js/2.6db0ea6b.chunk.js.LICENSE.txt"
+    "main.css": "/comtoplc/static/css/main.7e293357.chunk.css",
+    "main.js": "/comtoplc/static/js/main.d8fc5ce1.chunk.js",
+    "main.js.map": "/comtoplc/static/js/main.d8fc5ce1.chunk.js.map",
+    "runtime-main.js": "/comtoplc/static/js/runtime-main.dcb8bdd8.js",
+    "runtime-main.js.map": "/comtoplc/static/js/runtime-main.dcb8bdd8.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/comtoplc/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.6db0ea6b.chunk.js": "/comtoplc/static/js/2.6db0ea6b.chunk.js",
+    "static/js/2.6db0ea6b.chunk.js.map": "/comtoplc/static/js/2.6db0ea6b.chunk.js.map",
+    "index.html": "/comtoplc/index.html",
+    "precache-manifest.08d4afa5d9719cf715484ba40f4bfafc.js": "/comtoplc/precache-manifest.08d4afa5d9719cf715484ba40f4bfafc.js",
+    "service-worker.js": "/comtoplc/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/comtoplc/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.7e293357.chunk.css.map": "/comtoplc/static/css/main.7e293357.chunk.css.map",
+    "static/js/2.6db0ea6b.chunk.js.LICENSE.txt": "/comtoplc/static/js/2.6db0ea6b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.263511b0.js",
+    "static/js/runtime-main.dcb8bdd8.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.6db0ea6b.chunk.js",
     "static/css/main.7e293357.chunk.css",
-    "static/js/main.5b85d139.chunk.js"
+    "static/js/main.d8fc5ce1.chunk.js"
   ]
 }
